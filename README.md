@@ -3,9 +3,9 @@
 
 Enable recording settings by typing `/settings` in your chat.
 
-Edit your save/stop recording keybinds in GTA `settings>Keybinds>Fivem`.
+Edit your save/stop recording key binds in GTA settings 'Keybinds>Fivem`.
 
-The script will start recording automatically once one of the conditions in the settings are fulfilled.
+The script will start recording automatically once one of the conditions in the settings is fulfilled.
 
 ### Installation
-Simply drop the `;s_recording` folder into your `resources` folder and add it to your `server.cfg` file
+Simply drop the `ls_recorder` folder into your `resources` folder and add it to your `server.cfg` file
