@@ -1,6 +1,5 @@
 fx_version 'cerulean'
 games      { 'gta5' }
-lua54 'yes'
 
 author 'Lith Studios | Swizz'
 description 'Recording Script by Lith Studios'
@@ -28,9 +27,4 @@ client_scripts {
     'client/client.lua',
     'client/editable.lua',
     'client/cache.lua'
-}
-
-escrow_ignore {
-    'config.lua',
-    'client/editable.lua',
 }
